@@ -1,0 +1,16 @@
+Author : Clay Bowser
+Date Last Modified : 2020/09/23
+Title : Assignment #2 part B : Erewhon Mobile Data Plans
+Flow chart location: flow_chart.jpg
+
+
+Ask User to enter data usage (Mb) : 250
+
+Catagorize User input's total charge into these
+	0-200mb = $20.00 flat rate
+	200mb-500mb = $0.105 per Mb
+	500mb to 1Gb = $0.110 per Mb
+	Over 1Gb = $118.00 flat rate
+
+Display to User 
+	Total charge is $(calculated total)
